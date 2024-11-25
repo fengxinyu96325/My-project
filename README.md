@@ -1,1 +1,1 @@
-[FAQ.md](#FAQ.md)
+[FAQ.md](#FAQ)
